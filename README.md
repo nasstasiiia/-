@@ -17,13 +17,12 @@
 
 
 ## ER - диаграмма 
-<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20admin">
 
 ### ERD логического уровня
-<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20admin">
+<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/ERD%20logic">
 
 ### ERD физического уровня
-<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20admin">
+<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/ERD%20physic">
 
 
 
