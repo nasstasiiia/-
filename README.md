@@ -8,9 +8,22 @@
 ### DFD - диаграмма первого уровня для администратора
 <img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20admin">
 
-
 ### DFD - диаграмма первого уровня для владельца
 <img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20owner">
 
 ### DFD - диаграмма первого уровня для работника
 <img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20employee">
+
+
+
+## ER - диаграмма 
+<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20admin">
+
+### ERD логического уровня
+<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20admin">
+
+### ERD физического уровня
+<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/DFD%20admin">
+
+
+
