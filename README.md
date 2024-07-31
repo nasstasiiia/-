@@ -25,4 +25,4 @@
 <img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/ERD%20physic">
 
 ## USE case - диаграмма 
-
+<img width="800" alt="DFD" src="https://github.com/nasstasiiia/service-for-pet-owners/blob/main/use_case">
